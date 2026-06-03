@@ -1,1 +1,17 @@
 venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+research/samsum_dataset/
+*.log
+*.csv
+*.json
+*.ipynb_checkpoints
+
+research/*.csv
+research/*.zip
+.claude
+
+artifacts/
+
